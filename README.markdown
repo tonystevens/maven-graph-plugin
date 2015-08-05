@@ -1,1 +1,3 @@
-Documentation can be found at https://github.com/janssk1/maven-graph-plugin/wiki/Manual
+Goal
+* Wrapper for exporting data to Neo4j.
+* Add the feature of taking multiple projects at once.
